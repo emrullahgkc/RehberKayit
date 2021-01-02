@@ -7,6 +7,6 @@ Veri tabanına fotograf ekleyip çagırma	</i></strong>
 ![alt text](https://i.hizliresim.com/K9zoMo.png)<br>
 ![alt text](https://i.hizliresim.com/hhu5so.png)<br>
 ![alt text](https://i.hizliresim.com/P7G138.png)<br>
-
 ![alt text](https://i.hizliresim.com/lwWcOd.png)<br>
 ![alt text](https://i.hizliresim.com/XLOvwQ.png)<br>
+![alt text](https://i.hizliresim.com/62mKXE.png)<br>
