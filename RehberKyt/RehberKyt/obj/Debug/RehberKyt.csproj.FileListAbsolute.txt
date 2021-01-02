@@ -1,0 +1,12 @@
+C:\Users\EmrullaH\source\repos\RehberKyt\RehberKyt\bin\Debug\RehberKyt.exe.config
+C:\Users\EmrullaH\source\repos\RehberKyt\RehberKyt\bin\Debug\RehberKyt.exe
+C:\Users\EmrullaH\source\repos\RehberKyt\RehberKyt\bin\Debug\RehberKyt.pdb
+C:\Users\EmrullaH\source\repos\RehberKyt\RehberKyt\bin\Debug\MySql.Data.dll
+C:\Users\EmrullaH\source\repos\RehberKyt\RehberKyt\obj\Debug\RehberKyt.csprojAssemblyReference.cache
+C:\Users\EmrullaH\source\repos\RehberKyt\RehberKyt\obj\Debug\RehberKyt.Form1.resources
+C:\Users\EmrullaH\source\repos\RehberKyt\RehberKyt\obj\Debug\RehberKyt.Properties.Resources.resources
+C:\Users\EmrullaH\source\repos\RehberKyt\RehberKyt\obj\Debug\RehberKyt.csproj.GenerateResource.cache
+C:\Users\EmrullaH\source\repos\RehberKyt\RehberKyt\obj\Debug\RehberKyt.csproj.CoreCompileInputs.cache
+C:\Users\EmrullaH\source\repos\RehberKyt\RehberKyt\obj\Debug\RehberKyt.csproj.CopyComplete
+C:\Users\EmrullaH\source\repos\RehberKyt\RehberKyt\obj\Debug\RehberKyt.exe
+C:\Users\EmrullaH\source\repos\RehberKyt\RehberKyt\obj\Debug\RehberKyt.pdb
